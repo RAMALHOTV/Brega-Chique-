@@ -1019,10 +1019,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]R
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/00005821/MF159357C/5129
 #EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/6TvXnU.png" group-title="CANAIS | FILMES & SERIES",UNIVERSAL TV SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/00005821/MF159357C/5535
-#EXTINF:-1 tvg-id="" tvg-name="VILLA MIX SD" tvg-logo="http://brla.me/242.png" group-title="CANAIS | SHOWS 24h",VILLA MIX SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/00005821/MF159357C/923157
-#EXTINF:-1 tvg-id="" tvg-name="VIOLAÇÃO ANAL" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",VIOLAÇÃO ANAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/00005821/MF159357C/1010106
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/00005821/MF159357C/30742
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="CANAIS | VARIEDADES",VIVA HD
